@@ -1,0 +1,13 @@
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\bin\Debug\netcoreapp3.1\DemoLinQ.exe
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\bin\Debug\netcoreapp3.1\DemoLinQ.deps.json
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\bin\Debug\netcoreapp3.1\DemoLinQ.runtimeconfig.json
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\bin\Debug\netcoreapp3.1\DemoLinQ.runtimeconfig.dev.json
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\bin\Debug\netcoreapp3.1\DemoLinQ.dll
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\bin\Debug\netcoreapp3.1\DemoLinQ.pdb
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\obj\Debug\netcoreapp3.1\DemoLinQ.csprojAssemblyReference.cache
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\obj\Debug\netcoreapp3.1\DemoLinQ.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\obj\Debug\netcoreapp3.1\DemoLinQ.AssemblyInfoInputs.cache
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\obj\Debug\netcoreapp3.1\DemoLinQ.AssemblyInfo.cs
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\obj\Debug\netcoreapp3.1\DemoLinQ.dll
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\obj\Debug\netcoreapp3.1\DemoLinQ.pdb
+D:\LẬP TRÌNH CƠ SỞ DỮ LIỆU\Demo\DemoLinQ\DemoLinQ\obj\Debug\netcoreapp3.1\DemoLinQ.genruntimeconfig.cache
